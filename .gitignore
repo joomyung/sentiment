@@ -1,0 +1,14 @@
+# programs
+.vscode
+.sqlite
+
+# logs and dbs
+logs.log
+.log
+.db
+
+# configs
+config.py
+
+# python related
+__pycache__/
